@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+    text-align: justify;
+    padding: 200px;
+}
+table {
+    border: 5px solid #000; /* Añade un borde de 1 píxel con color negro */
+
+
+}
+
+td {
+    border: 5px solid #000; /* Añade un borde de 1 píxel con color negro */
+    padding: 8px; /* Añade espacio interno para mejorar la apariencia */
+    text-align: center; /* Centra el contenido en las celdas */
+}
+
+td.dividida {
+    border: 5px solid #000; /* Añade un borde de 1 píxel con color negro */
+}
